@@ -8,7 +8,6 @@
 
 #import <UIKit/UIKit.h>
 #import <Foundation/Foundation.h>
-#import <Masonry/Masonry.h>
 #pragma mark ----- UIView --------------------
 @interface UIView (CD_Chain)
 + (instancetype)cd_init;
